@@ -33,7 +33,7 @@ gem 'stimulus-rails'
 gem 'jbuilder'
 
 # Use Redis adapter to run Action Cable in production
-gem 'redis', '~> 2.0'
+
 
 gem 'rubocop'
 
